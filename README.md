@@ -7,10 +7,12 @@ This project is an Android-based custom calculator designed to handle polynomial
 ## 📱 App Screenshots
 
 ### **Main Calculator UI**
-![Calculator UI](dbad3cbf-d8ea-49e6-abd5-8dd57e84119d.png)
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/c3ec2a4e-eca9-4a32-a374-5a2577200df5" />
+
 
 ### **App Icon**
-![Calculator Icon](bb1a6622-6d5d-4b70-a7f2-30b7d427085e.png)
+<img width="165" height="182" alt="image" src="https://github.com/user-attachments/assets/43591ae3-27f9-48be-95d8-403eba200cb0" />
+
 
 ---
 
